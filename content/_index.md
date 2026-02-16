@@ -5,6 +5,16 @@ description: "So you want to make a 5E character"
 
 # Welcome to NYC
 
-Lorem ipsum et cetera
+{{% steps %}}
+1. ## Suspendisse sed congue orci.
+   ...
 
-Do you want to be a paladin, a warlock, or both?
+2. ## Maecenas scelerisque sem.
+   ...
+
+3. ## Etiam risus purus.
+   ...
+
+4. ## Curabitur sed lacinia velit.
+   ...
+{{% /steps %}}

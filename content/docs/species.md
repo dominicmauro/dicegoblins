@@ -1,9 +1,7 @@
 ---
-weight: 10
-title: Ancestry
+weight: 30
+title: Species
 ---
-
-# Ancestry
 
 Elf
 
