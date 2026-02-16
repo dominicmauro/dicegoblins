@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'NYC Dice Goblins Index'
-theme = hugo-book
+theme = 'hugo-book'
