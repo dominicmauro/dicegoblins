@@ -1,0 +1,7 @@
+{
+  "extension" : {
+    "identifier" : "me.yergatian.hugoserver",
+    "name" : "Hugo Server"
+  },
+  "extensionTemplate" : "hugoServer"
+}
