@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dominicmauro.github.io/dicegoblins'
 languageCode = 'en-us'
 title = 'NYC Dice Goblins Index'
 theme = 'hugo-book'
@@ -33,7 +33,7 @@ theme = 'hugo-book'
   # (Optional, default none) Set template for edit page link.
   # When set enabled 'Edit this page' link in the footer of the page.
   # Param is executed as template using .Site, .Page and .Path as context.
-  BookEditLink = 'https://github.com/dominicmauro/dicegoblins/tree/main/{{ .Path }}'
+  # BookEditLink = 'https://github.com/dominicmauro/dicegoblins/tree/main/{{ .Path }}'
 
   # (Optional, default 'January 2, 2006') Configure the date format used on the pages
   # - In git information
