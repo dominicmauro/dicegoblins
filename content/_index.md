@@ -1,9 +1,9 @@
 ---
-title: "Welcome, Dice Goblin"
+title: "NYC Dice Goblins"
 description: "So you want to make a 5E character"
 ---
 
-# Welcome to NYC
+# Lorem Ipsum
 
 {{% steps %}}
 1. ## Suspendisse sed congue orci.
