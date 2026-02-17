@@ -11,6 +11,8 @@ You gain all of the following benefits:
 
 2. **Initiative Swap**. Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
 
+---
+
 ## Crafter
 
 You gain all of the following benefits:
@@ -31,6 +33,8 @@ You gain all of the following benefits:
 | Weaver's Tools        	| Basket, Rope, Net, Tent                                   	|
 | Woodcarver's Tools    	| Club, Greatclub, Quarterstaff                             	|
 
+---
+
 ## Healer
 
 You gain all of the following benefits:
@@ -38,6 +42,8 @@ You gain all of the following benefits:
 1. **Battle Medic**. If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a *Utilize* action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
 2. **Healing Rerolls**. Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
+
+---
 
 ## Lucky
 
@@ -49,6 +55,8 @@ You gain all of the following benefits:
 
 3. **Disadvantage**. When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
 
+---
+
 ## Magic Initiate
 
 You gain all of the following benefits:
@@ -59,6 +67,8 @@ You gain all of the following benefits:
 
 3. **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
+---
+
 ## Musician
 
 You gain all of the following benefits:
@@ -67,13 +77,19 @@ You gain all of the following benefits:
 
 2. **Encouraging Song**. As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
+---
+
 ## Savage Attacker
 
 You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
 
+---
+
 ## Skilled
 
 You gain proficiency in any combination of three skills or tools of your choice.
+
+---
 
 ## Tavern Brawler
 
@@ -86,6 +102,8 @@ You gain all of the following benefits:
 3. **Improvised Weaponry**. You have proficiency with improvised weapons.
 
 4. **Push**. When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
+
+---
 
 ## Tough
 
