@@ -11,17 +11,17 @@ Your character's class is like their job. Pick one that sounds interesting and n
    
    | Class     	| Likes          	| Primary Ability       	| Complexity 	|
    |-----------	|----------------	|-----------------------	|------------	|
-   | [Barbarian](/docs/class/#barbarian)	| Battle  | Strength| Average    	|
-   | [Bard](/docs/class/#bard)	| Performing    | Charisma  | High       	|
-   | [Cleric](/docs/class/#cleric)	| Gods	| Wisdom	| Average    	|
-   | [Druid](/docs/class/#druid)	| Nature	| Wisdom	| High       	|
-   | [Fighter](/docs/class/#fighter)	| Weapons	| Strength or Dexterity 	| Low        	|
-   | [Monk](/docs/class/#monk)	| Unarmed combat 	| Dexterity and Wisdom  	| High       	|
-   | [Paladin](/docs/class/#paladin)	| Defense	| Strength and Charisma 	| Average    	|
-   | [Ranger](/docs/class/#ranger)	| Survival	| Dexterity and Wisdom	| Average    	|
-   | [Rogue](/docs/class/#rogue)	| Stealth	| Dexterity	| Low	|
-   | [Sorcerer](/docs/class/#sorcerer)	| Power	| Charisma	| High	|
-   | [Warlock](/docs/class/#warlock)	| Occult lore	| Charisma	| High	|
+   | [Barbarian](/docs/class/barbarian)	| Battle  | Strength| Average    	|
+   | [Bard](/docs/class/bard)	| Performing    | Charisma  | High       	|
+   | [Cleric](/docs/class/cleric)	| Gods	| Wisdom	| Average    	|
+   | [Druid](/docs/class/druid)	| Nature	| Wisdom	| High       	|
+   | [Fighter](/docs/class/fighter)	| Weapons	| Strength or Dexterity 	| Low        	|
+   | [Monk](/docs/class/monk)	| Unarmed combat 	| Dexterity and Wisdom  	| High       	|
+   | [Paladin](/docs/class/paladin)	| Defense	| Strength and Charisma 	| Average    	|
+   | [Ranger](/docs/class/ranger)	| Survival	| Dexterity and Wisdom	| Average    	|
+   | [Rogue](/docs/class/rogue)	| Stealth	| Dexterity	| Low	|
+   | [Sorcerer](/docs/class/sorcerer)	| Power	| Charisma	| High	|
+   | [Warlock](/docs/class/warlock)	| Occult lore	| Charisma	| High	|
 
 ## 2. Proficiency Bonus
    
