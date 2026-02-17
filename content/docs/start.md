@@ -84,6 +84,6 @@ Using the reference table of [armor](/docs/gear/#armor), fill in your Armor Clas
 
 Depending on your Background, Species, and Class, you may be able to cast spells. If so, here's what to do:
 
-- Calculate your saving throw and spell attack bonus. Your Saving Throw is 10 + your spellcasting ability modifier. Your spell attack bonus is 2 + your spellcasting ability modifier. Note those on your character sheet.
-
-- 
+- Calculate your saving throw and spell attack bonus. Your Saving Throw is 10 + your spellcasting ability modifier. 
+- Your spell attack bonus is 2 + your spellcasting ability modifier. Note those on your character sheet.
+- Double-check that you've selected all the cantrips and spells granted by your Species and Class (as well as the Magic Initiate feat, if you have it).
