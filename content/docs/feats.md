@@ -63,7 +63,63 @@ You gain all of the following benefits:
 
 1. **Two Cantrips**. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
+{{< tabs >}}
+{{% tab "Cleric" %}}
+1. Guidance
+2. Light
+3. Mending
+4. Sacred Flame
+{{% /tab %}}
+{{% tab "Druid" %}} 
+1. Druidcraft
+2. Guidance
+3. Poison Spray
+4. Produce Flame
+{{% /tab %}}
+{{% tab "Wizard" %}}
+1. Chill Touch
+2. Dancing Lights
+3. Fire Bolt
+4. Light
+5. Mending
+6. Minor Illusion
+7. Poison Spray
+8. Prestidigitation
+{{% /tab %}}
+{{< /tabs >}}
+
 2. **Level 1 Spell**. Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+
+{{< tabs >}}
+{{% tab "Cleric" %}}
+1. Bless
+2. Cure Wounds
+3. Detect Magic
+4. Guiding Bolt
+4. Healing Word
+5. Shield of Faith
+
+{{% /tab %}}
+{{% tab "Druid" %}} 
+1. Animal Friendship
+2. Charm Person
+3. Cure Wounds
+4. Detect Magic
+5. Faerie Fire
+6. Speak With Animals
+7. Thunderwave
+
+{{% /tab %}}
+{{% tab "Wizard" %}}
+1. Charm Person
+2. Detect Magic
+3. Feather Fall
+4. Mage Armor
+5. Magic Missile
+6. Sleep
+7. Thunderwave
+{{% /tab %}}
+{{< /tabs >}}
 
 3. **Spell Change**. Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 

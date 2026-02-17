@@ -450,7 +450,7 @@ As a student of arcane magic, you have learned to cast spells. The information b
 
 **Spellbook**. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the spells you know. It starts with six level 1 Wizard spells: Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave are recommended.
+The book contains the spells you know. It starts with six level 1 Wizard spells: Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave.
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 

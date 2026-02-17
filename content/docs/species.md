@@ -20,7 +20,7 @@ You have the following Species Traits:
 
 **Healing Hands**. As a Magic action, you touch a creature and roll a number of d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.
 
-**Light Bearer**. You know the Light cantrip. Charisma is your spellcasting ability for it.
+**Light Bearer**. You know the [Light](/docs/spells/#light) cantrip. Charisma is your spellcasting ability for it.
 
 ---
 
@@ -58,7 +58,7 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 **Darkvision**. You have Darkvision with a range of 60 feet.
 
-**Draconic Flight**. When you reach character level 5, you can channel draconic magic to give yourself temporary flight.
+**Draconic Flight**. When you reach character level 5, you can channel draconic magic to give yourself temporary flight. We'll talk about that later.
 
 ---
 
@@ -82,7 +82,8 @@ You gain the following Species Traits:
 
 **Dwarven Toughness**. Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
-**Stonecunning**. As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked.
+**Stonecunning**. As a Bonus Action, you gain *Tremorsense* with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked.
+
 You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ---
@@ -97,11 +98,11 @@ Elves have pointed ears and lack facial and body hair. They live for around 750 
 
 An environment subtly transforms elves after they inhabit it for a millennium or more, and it grants them certain kinds of magic. Drow, high elves, and wood elves are examples of elves who have been transformed thus.
 
-*Drow* typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic. In the Eberron setting, for example, drow dwell in rainforests and cyclopean ruins on the continent of Xen'drik.
+*Drow* typically dwell in the Underdark and have been shaped by it. Some drow individuals and societies avoid the Underdark altogether yet carry its magic.
 
-*High elves* have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names. For example, they call themselves sun or moon elves in the Forgotten Realms setting, Silvanesti and Qualinesti in the Dragonlance setting, and Aereni in the Eberron setting.
+*High elves* have been infused with the magic of crossings between the Feywild and the Material Plane. On some worlds, high elves refer to themselves by other names such as sun or moon elves.
 
-*Wood elves* carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
+*Wood elves* carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves.
 
 - **Size**: Medium (about 5-6 feet tall)
 - **Speed**: 30 feet
@@ -112,9 +113,9 @@ You gain the following Species Traits:
 
 **Elven Lineage**. You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table and gain its benefit.
 	
-- Drow. The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.
-- High Elf. You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
-- Wood Elf. Your Speed increases to 35 feet. You also know the Druidcraft cantrip.
+- Drow. The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](/docs/spells/#dancing-lights) cantrip.
+- High Elf. You know the [Prestidigitation](/docs/spells/#prestidigitation) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
+- Wood Elf. Your Speed increases to 35 feet. You also know the [Druidcraft](/docs/spells/#druidcraft) cantrip.
 
 **Fey Ancestry**. You have Advantage on saving throws you make to avoid or end the Charmed condition.
 
@@ -141,8 +142,8 @@ You gain the following Species Traits:
 
 **Gnomish Lineage**. You are part of a lineage that grants you supernatural abilities. Choose one of the following options; whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):
 
-- Forest Gnome. You know the Minor Illusion cantrip. You also always have the Speak with Animals spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
-- Rock Gnome. You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
+- Forest Gnome. You know the [Minor Illusion](/docs/spells/#minor-illusion) cantrip. You also always have the Speak with Animals spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+- Rock Gnome. You know the [Mending](/docs/spells/#mending) and [Prestidigitation](/docs/spells/#prestidigitation) cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
 ---
 
@@ -243,10 +244,11 @@ A tiefling chooses whether to embrace or lament their fiendish legacy. The three
 You gain the following Species Traits:
 
 **Darkvision**. You have Darkvision with a range of 60 feet.
+
 **Fiendish Legacy**. You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table and gain that benefit.
 
-- Abyssal. You have Resistance to Poison damage. You also know the Poison Spray cantrip.	
-- Chthonic. You have Resistance to Necrotic damage. You also know the Chill Touch cantrip.	
-- Infernal. You have Resistance to Fire damage. You also know the Fire Bolt cantrip.	
+- Abyssal. You have Resistance to Poison damage. You also know the [Poison Spray](/docs/spells/#poison-spray) cantrip.	
+- Chthonic. You have Resistance to Necrotic damage. You also know the [Chill Touch](/docs/spells/#chill-touch) cantrip.	
+- Infernal. You have Resistance to Fire damage. You also know the [Fire Bolt](/docs/spells/#fire-bolt) cantrip.	
 
-**Otherworldly Presence**. You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
+**Otherworldly Presence**. You know the [Thaumaturgy](/docs/spells/#thaumaturgy) cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
