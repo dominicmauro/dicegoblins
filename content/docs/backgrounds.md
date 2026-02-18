@@ -7,12 +7,12 @@ Using the chart below, pick a background that improves the key ability for your 
 
 | Ability   | Backgrounds    |
 |--------------|-------------|
-| Strength     | Artisan, Entertainer, Farmer, Guard, Noble, Sailor, Soldier    |
-| Dexterity    | Artisan, Charlatan, Criminal, Entertainer, Guide, Sailor, Scribe, Soldier, Wayfarer    |
-| Constitution | Charlatan, Criminal, Farmer, Guide, Hermit, Merchant, Sage, Soldier    |
-| Intelligence | Acolyte, Artisan, Criminal, Guard, Merchant, Noble, Sage, Scribe   |
-| Wisdom       | Acolyte, Farmer, Guard, Guide, Hermit, Sage, Sailor, Scribe, Wayfarer  |
-| Charisma     | Acolyte, Charlatan, Entertainer, Hermit, Merchant, Noble, Wayfarer |
+| Strength     | [Artisan](#artisan), [Entertainer](#entertainer), [Farmer](#farmer), [Guard](#guard), [Noble](#noble), [Sailor](#sailor), [Soldier](#soldier)    |
+| Dexterity    | [Artisan](#artisan), [Charlatan](#charlatan), [Criminal](#criminal), [Entertainer](#entertainer), [Guide](#guide), [Sailor](#sailor), [Scribe](#scribe), [Soldier](#soldier), [Wayfarer](#wayfarer)    |
+| Constitution | [Charlatan](#charlatan), [Criminal](#criminal), [Farmer](#farmer), [Guide](#guide), [Hermit](#hermit), [Merchant](#merchant), [Sage](#sage), [Soldier](#soldier)    |
+| Intelligence | [Acolyte](#acolyte), [Artisan](#artisan), [Criminal](#criminal), [Guard](#guard), [Merchant](#merchant), [Noble](#noble), [Sage](#sage), [Scribe](#scribe)   |
+| Wisdom       | [Acolyte](#acolyte), [Farmer](#farmer), [Guard](#guard), [Guide](#guide), [Hermit](#hermit), [Sage](#sage), [Sailor](#sailor), [Scribe](#scribe), [Wayfarer](#wayfarer)  |
+| Charisma     | [Acolyte](#acolyte), [Charlatan](#charlatan), [Entertainer](#entertainer), [Hermit](#hermit), [Merchant](#merchant), [Noble](#noble), [Wayfarer](#wayfarer) |
 
 ## Acolyte
 
