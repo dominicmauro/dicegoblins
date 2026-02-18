@@ -52,12 +52,12 @@ Your character's Background is what they did before they learned to be an advent
 
 | Ability   | Backgrounds   |
 |--------------|-------------|
-| Strength     | Artisan, Entertainer, Farmer, Guard, Noble, Sailor, Soldier    |
-| Dexterity    | Artisan, Charlatan, Criminal, Entertainer, Guide, Sailor, Scribe, Soldier, Wayfarer    |
-| Constitution | Charlatan, Criminal, Farmer, Guide, Hermit, Merchant, Sage, Soldier    |
-| Intelligence | Acolyte, Artisan, Criminal, Guard, Merchant, Noble, Sage, Scribe   |
-| Wisdom       | Acolyte, Farmer, Guard, Guide, Hermit, Sage, Sailor, Scribe, Wayfarer  |
-| Charisma     | Acolyte, Charlatan, Entertainer, Hermit, Merchant, Noble, Wayfarer |
+| Strength     | [Artisan](/docs/backgrounds/#artisan), [Entertainer](/docs/backgrounds/#entertainer), [Farmer](/docs/backgrounds/#farmer), [Guard](/docs/backgrounds/#guard), [Noble](/docs/backgrounds/#noble), [Sailor](/docs/backgrounds/#sailor), [Soldier](/docs/backgrounds/#soldier)    |
+| Dexterity    | [Artisan](/docs/backgrounds/#artisan), [Charlatan](/docs/backgrounds/#charlatan), [Criminal](/docs/backgrounds/#criminal), [Entertainer](/docs/backgrounds/#entertainer), [Guide](/docs/backgrounds/#guide), [Sailor](/docs/backgrounds/#sailor), [Scribe](/docs/backgrounds/#scribe), [Soldier](/docs/backgrounds/#soldier), [Wayfarer](/docs/backgrounds/#wayfarer)    |
+| Constitution | [Charlatan](/docs/backgrounds/#charlatan), [Criminal](/docs/backgrounds/#criminal), [Farmer](/docs/backgrounds/#farmer), [Guide](/docs/backgrounds/#guide), [Hermit](/docs/backgrounds/#hermit), [Merchant](/docs/backgrounds/#merchant), [Sage](/docs/backgrounds/#sage), [Soldier](/docs/backgrounds/#soldier)    |
+| Intelligence | [Acolyte](/docs/backgrounds/#acolyte), [Artisan](/docs/backgrounds/#artisan), [Criminal](/docs/backgrounds/#criminal), [Guard](/docs/backgrounds/#guard), [Merchant](/docs/backgrounds/#merchant), [Noble](/docs/backgrounds/#noble), [Sage](/docs/backgrounds/#sage), [Scribe](/docs/backgrounds/#scribe)   |
+| Wisdom       | [Acolyte](/docs/backgrounds/#acolyte), [Farmer](/docs/backgrounds/#farmer), [Guard](/docs/backgrounds/#guard), [Guide](/docs/backgrounds/#guide), [Hermit](/docs/backgrounds/#hermit), [Sage](/docs/backgrounds/#sage), [Sailor](/docs/backgrounds/#sailor), [Scribe](/docs/backgrounds/#scribe), [Wayfarer](/docs/backgrounds/#wayfarer)  |
+| Charisma     | [Acolyte](/docs/backgrounds/#acolyte), [Charlatan](/docs/backgrounds/#charlatan), [Entertainer](/docs/backgrounds/#entertainer), [Hermit](/docs/backgrounds/#hermit), [Merchant](/docs/backgrounds/#merchant), [Noble](/docs/backgrounds/#noble), [Wayfarer](/docs/backgrounds/#wayfarer) |
    
 View the [backgrounds page](/docs/backgrounds) for more details about each Background. Each Background improves three ability scores by +1, or one ability score by +2 and a second one by +1. You cannot improve one ability score by +3. Once you've decided on a Background and decided what abilities you want to improve, write down the final ability scores on your character sheet.
 
