@@ -3,11 +3,9 @@ weight: 5
 title: Start Here
 ---
 
-Here's an outline for building your character.
-
 ## 1. Select a Class
 
-Your character's class is like their job. Pick one that sounds interesting and note the important ability score(s) for that class.
+Your character's Class is like their job. Pick one that sounds interesting to you and note the important ability score(s) for that Class.
    
    | Class     	| Likes          	| Primary Ability       	| Complexity 	|
    |-----------	|----------------	|-----------------------	|------------	|
@@ -25,32 +23,49 @@ Your character's class is like their job. Pick one that sounds interesting and n
 
 ## 2. Proficiency Bonus
    
-Fill in the proficiency bonus on your character sheet: you start with a +2 bonus.
+Fill in the proficiency bonus on your character sheet: everyone starts with a +2 proficiency bonus.
 
 ## 3. Assign Ability Scores
 
-Give each of your six abilities one of the following scores: 15, 14, 13, 12, 10 and 8. You should assign the 15 to the Primary Ability for your class as described above. Note that in the next step, you'll increase some of these scores, so consider using scrap paper for this step.
+All level 1 characters use the same six scores for their abilities: 15, 14, 13, 12, 10, and 8. The following table puts the highest scores in the most important abilities for each Class.
+
+| Class     	| STR 	| DEX 	| CON 	| INT 	| WIS 	| CHA 	|
+|-----------	|------	|-----	|-----	|------	|------	|------	|
+| Barbarian 	| 15   	| 13  	| 14  	| 10   	| 12   	| 8    	|
+| Bard      	| 8    	| 14  	| 12  	| 13   	| 10   	| 15   	|
+| Cleric    	| 14   	| 8   	| 13  	| 10   	| 15   	| 12   	|
+| Druid     	| 8    	| 12  	| 14  	| 13   	| 15   	| 10   	|
+| Fighter   	| 15   	| 14  	| 13  	| 8    	| 10   	| 12   	|
+| Monk      	| 12   	| 15  	| 13  	| 10   	| 14   	| 8    	|
+| Paladin   	| 15   	| 10  	| 13  	| 8    	| 12   	| 14   	|
+| Ranger    	| 12   	| 15  	| 13  	| 8    	| 14   	| 10   	|
+| Rogue     	| 12   	| 15  	| 13  	| 14   	| 10   	| 8    	|
+| Sorcerer  	| 10   	| 13  	| 14  	| 8    	| 12   	| 15   	|
+| Warlock   	| 8    	| 14  	| 13  	| 12   	| 10   	| 15   	|
+| Wizard    	| 8    	| 12  	| 13  	| 15   	| 14   	| 10   	|
+
+After assigning your character's ability scores based on their Class, you will adjust some of the scores based on your character's Background. 
 
 ## 4. Choose a Background
 
-Your character's background is what they did before they learned to be an adventurer. Choose one of the backgrounds that improves the important ability score for your class. 
+Your character's Background is what they did before they learned to be an adventurer. Choose one of the Backgrounds that improves the important ability score for their Class. 
 
- | Ability   | Backgrounds   |
-   |--------------|-------------|
-   | Strength     | Artisan, Entertainer, Farmer, Guard, Noble, Sailor, Soldier    |
-   | Dexterity    | Artisan, Charlatan, Criminal, Entertainer, Guide, Sailor, Scribe, Soldier, Wayfarer    |
-   | Constitution | Charlatan, Criminal, Farmer, Guide, Hermit, Merchant, Sage, Soldier    |
-   | Intelligence | Acolyte, Artisan, Criminal, Guard, Merchant, Noble, Sage, Scribe   |
-   | Wisdom       | Acolyte, Farmer, Guard, Guide, Hermit, Sage, Sailor, Scribe, Wayfarer  |
-   | Charisma     | Acolyte, Charlatan, Entertainer, Hermit, Merchant, Noble, Wayfarer |
+| Ability   | Backgrounds   |
+|--------------|-------------|
+| Strength     | Artisan, Entertainer, Farmer, Guard, Noble, Sailor, Soldier    |
+| Dexterity    | Artisan, Charlatan, Criminal, Entertainer, Guide, Sailor, Scribe, Soldier, Wayfarer    |
+| Constitution | Charlatan, Criminal, Farmer, Guide, Hermit, Merchant, Sage, Soldier    |
+| Intelligence | Acolyte, Artisan, Criminal, Guard, Merchant, Noble, Sage, Scribe   |
+| Wisdom       | Acolyte, Farmer, Guard, Guide, Hermit, Sage, Sailor, Scribe, Wayfarer  |
+| Charisma     | Acolyte, Charlatan, Entertainer, Hermit, Merchant, Noble, Wayfarer |
    
 View the [backgrounds page](/docs/backgrounds) for more details about each Background. Each Background can improve three ability scores by +1, or one ability score by +2 and a second one by +1. You cannot improve one ability score by +3. Once you've decided on a Background and decided what abilities you want to improve, write down the final ability scores on your character sheet.
 
-In addition, write down the following benefits gained from your Background:
+In addition, write down the following benefits gained from your character's Background:
 
 1. The Feat your character learned
 2. Skills your character is proficient in
-3. Equipment your character started their career with
+3. Equipment your character finished their Background with
 
 ## 5. Choose a Species
 
@@ -60,15 +75,15 @@ View the [species page](/docs/species) for more details about each Species. Choo
 
 ## 6. Complete Core Traits
 
-View the [Class page](/docs/class) and add your Hit Dice, weapon proficiencies, armor training and the rest of your character's starting equipment. Complete the “Weapons and Damaging Cantrips” section of your character sheet, using the table of [Weapons](/docs/gear/#weapons) and the list of [Cantrips](/docs/spells#cantrips).
+View the [Class page](/docs/class) and add your character's Hit Dice, weapon proficiencies, armor training and the rest of your character's starting equipment. Complete the “Weapons and Damaging Cantrips” section of your character sheet, using the table of [Weapons](/docs/gear/#weapons) and the list of [Cantrips](/docs/spells#cantrips).
 
 ## 7. Skill Proficiencies
 
-In addition to the Skill Proficiencies you gained from your Background, your character gains a number of Skill Proficiencies based on their Class. Select those additional Skills now, and mark them on your character sheet.
+In addition to the Skill Proficiencies your character gained from their Background, your character gains a number of Skill Proficiencies based on their Class. Select those additional Skills now, and mark them on your character sheet.
  
 ## 8. Ability and Skill Modifiers
  
-Each of your ability scores (Strength, Dexterity, etc.) has a Modifier based on the score.
+Each of your character's ability scores (Strength, Dexterity, etc.) has a Modifier based on the score.
  
  | Score 	| Modifier 	|
  |-------	|----------	|
@@ -78,19 +93,19 @@ Each of your ability scores (Strength, Dexterity, etc.) has a Modifier based on 
  | 14–15 	| +2       	|
  | 16–17 	| +3       	|
  
-Fill in the Modifier next to each Ability. For each Saving Throw and Skill your character is proficient in, add your Proficiency Bonus (+2) to the Ability Modifier. Saving Throws and Skills your character is not proficient in use a simple Ability roll.
+Fill in the Modifier next to each Ability. For each Saving Throw and Skill your character is proficient in, add your Proficiency Bonus (+2) to the Ability Modifier and fill that result in. Saving Throws and Skills your character is not proficient in use a simple Ability roll.
 
 ## 9. Perception, HP, Initiative, & AC
 
-Fill in your passive perception (10 + Perception Modifier), your hit points (Based on your Class plus your Constitution Modifier), and your initiative (your Dexterity modifier), 
+Fill in your character's passive perception (10 + Perception Modifier), hit points (Based on their Class plus their Constitution Modifier), and initiative (their Dexterity modifier), 
 
-Using the reference table of [armor](/docs/gear/#armor), fill in your Armor Class (based on your armor and Class features).
+Using the reference table of [armor](/docs/gear/#armor), fill in your character's Armor Class (based on their armor and Class features).
 
 ## 10. Spellcasting
 
-Depending on your Background, Species, and Class, you may be able to cast spells. If so, calculate the following:
+Depending on your character's Background, Species, and Class, they may be able to cast spells. If so, calculate the following:
 
-- Your *Spell Save DC*, which is 10 + your spellcasting ability modifier.
-- Your *Spell Attack Bonus*, which is 2 + your spellcasting ability modifier.
+- Your character's *Spell Save DC*, which is 10 + their spellcasting ability modifier.
+- Your character's *Spell Attack Bonus*, which is 2 + their spellcasting ability modifier.
 
-And note them on the top of your character sheet's second page. Then double-check that you've selected all the cantrips and spells granted by your Species and Class (as well as the Magic Initiate feat, if you have it).
+And note them on the top of your character sheet's second page. Then double-check that you've selected all the cantrips and spells granted by your character's Species and Class (as well as the Magic Initiate feat, if you have it).
