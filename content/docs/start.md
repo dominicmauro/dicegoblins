@@ -59,7 +59,7 @@ Your character's Background is what they did before they learned to be an advent
 | Wisdom       | Acolyte, Farmer, Guard, Guide, Hermit, Sage, Sailor, Scribe, Wayfarer  |
 | Charisma     | Acolyte, Charlatan, Entertainer, Hermit, Merchant, Noble, Wayfarer |
    
-View the [backgrounds page](/docs/backgrounds) for more details about each Background. Each Background can improve three ability scores by +1, or one ability score by +2 and a second one by +1. You cannot improve one ability score by +3. Once you've decided on a Background and decided what abilities you want to improve, write down the final ability scores on your character sheet.
+View the [backgrounds page](/docs/backgrounds) for more details about each Background. Each Background improves three ability scores by +1, or one ability score by +2 and a second one by +1. You cannot improve one ability score by +3. Once you've decided on a Background and decided what abilities you want to improve, write down the final ability scores on your character sheet.
 
 In addition, write down the following benefits gained from your character's Background:
 
