@@ -52,15 +52,21 @@ In addition, write down the following benefits gained from your Background:
 2. Skills your character is proficient in
 3. Equipment your character started their career with
 
-## 5. Complete Core Traits
+## 5. Choose a Species
+
+Your character's Species determines their size, speed, and a number of special traits based on their physiology or magical nature. Some Species have different traits to choose from.
+
+View the [species page](/docs/species) for more details about each Species. Choose one and add the Species Traits to your character sheet. 
+
+## 6. Complete Core Traits
 
 View the [Class page](/docs/class) and add your Hit Dice, weapon proficiencies, armor training and the rest of your character's starting equipment. Complete the “Weapons and Damaging Cantrips” section of your character sheet, using the table of [Weapons](/docs/gear/#weapons) and the list of [Cantrips](/docs/spells#cantrips).
 
-## 6. Skill Proficiencies
+## 7. Skill Proficiencies
 
 In addition to the Skill Proficiencies you gained from your Background, your character gains a number of Skill Proficiencies based on their Class. Select those additional Skills now, and mark them on your character sheet.
  
- ## 7. Ability and Skill Modifiers
+## 8. Ability and Skill Modifiers
  
 Each of your ability scores (Strength, Dexterity, etc.) has a Modifier based on the score.
  
@@ -74,16 +80,17 @@ Each of your ability scores (Strength, Dexterity, etc.) has a Modifier based on 
  
 Fill in the Modifier next to each Ability. For each Saving Throw and Skill your character is proficient in, add your Proficiency Bonus (+2) to the Ability Modifier. Saving Throws and Skills your character is not proficient in use a simple Ability roll.
 
-## 8. Perception, HP, Initiative, & AC
+## 9. Perception, HP, Initiative, & AC
 
 Fill in your passive perception (10 + Perception Modifier), your hit points (Based on your Class plus your Constitution Modifier), and your initiative (your Dexterity modifier), 
 
 Using the reference table of [armor](/docs/gear/#armor), fill in your Armor Class (based on your armor and Class features).
 
-## 9. Spellcasting
+## 10. Spellcasting
 
-Depending on your Background, Species, and Class, you may be able to cast spells. If so, here's what to do:
+Depending on your Background, Species, and Class, you may be able to cast spells. If so, calculate the following:
 
-- Calculate your saving throw and spell attack bonus. Your Saving Throw is 10 + your spellcasting ability modifier. 
-- Your spell attack bonus is 2 + your spellcasting ability modifier. Note those on your character sheet.
-- Double-check that you've selected all the cantrips and spells granted by your Species and Class (as well as the Magic Initiate feat, if you have it).
+- Your *Spell Save DC*, which is 10 + your spellcasting ability modifier.
+- Your *Spell Attack Bonus*, which is 2 + your spellcasting ability modifier.
+
+And note them on the top of your character sheet's second page. Then double-check that you've selected all the cantrips and spells granted by your Species and Class (as well as the Magic Initiate feat, if you have it).

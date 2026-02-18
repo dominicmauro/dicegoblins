@@ -20,7 +20,7 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 
 **Ability Scores**: Intelligence, Wisdom, Charisma
 
-**Feat**: Magic Initiate (Cleric)
+**Feat**: [Magic Initiate (Cleric)](/docs/feats/#magic-initiate)
 
 **Skill Proficiencies**: Insight, Religion
 
@@ -118,7 +118,7 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 
 **Ability Scores**: Dexterity, Constitution, Wisdom
 
-**Feat**: Magic Initiate (Druid)
+**Feat**: [Magic Initiate (Druid)](/docs/feats/#magic-initiate)
 
 **Skill Proficiencies**: Stealth, Survival
 
@@ -174,7 +174,7 @@ You spent your formative years traveling between manors and monasteries, perform
 
 **Ability Scores**: Constitution, Intelligence, Wisdom
 
-**Feat**: Magic Initiate (Wizard)
+**Feat**: [Magic Initiate (Wizard)](/docs/feats/#magic-initiate)
 
 **Skill Proficiencies**: Arcana, History
 
