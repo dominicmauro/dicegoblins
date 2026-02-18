@@ -1,5 +1,5 @@
 ---
-weight: 11
+weight: 30
 title: Spells
 ---
 
