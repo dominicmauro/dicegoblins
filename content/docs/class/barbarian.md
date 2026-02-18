@@ -1,3 +1,18 @@
+## Recommended Backgrounds
+
+Farmer or Soldier
+
+## Recommended Abilities
+
+Increase STR by +1 and CON by +2, as shown:
+
+- STR: 15 + 1
+- DEX: 13
+- CON: 14 + 2
+- INT: 10
+- WIS: 12
+- CHA: 8
+
 ## Core Traits
 
 - **Primary Ability**: Strength
