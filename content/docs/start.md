@@ -97,7 +97,7 @@ Fill in the Modifier next to each Ability. For each Saving Throw and Skill your 
 
 ## 9. Perception, HP, Initiative, & AC
 
-Fill in your character's passive perception (10 + Perception Modifier), hit points (Based on their Class plus their Constitution Modifier), and initiative (their Dexterity modifier), 
+Fill in your character's passive perception (10 + Perception Modifier), hit points (based on their Class plus their Constitution Modifier), and initiative (their Dexterity modifier), 
 
 Using the reference table of [armor](/docs/gear/#armor), fill in your character's Armor Class (based on their armor and Class features).
 
