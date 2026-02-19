@@ -1,3 +1,16 @@
+## Recommended Backgrounds
+
+[Acolyte](/docs/backgrounds/#acolyte), [Farmer](/docs/backgrounds/#farmer), [Guard](/docs/backgrounds/#guard), [Guide](/docs/backgrounds/#guide), [Hermit](/docs/backgrounds/#hermit), [Sage](/docs/backgrounds/#sage), [Sailor](/docs/backgrounds/#sailor), [Scribe](/docs/backgrounds/#scribe), [Wayfarer](/docs/backgrounds/#wayfarer)
+
+## Recommended Abilities
+
+- STR: 8
+- DEX: 12 
+- CON: 14 
+- INT: 13
+- WIS: 15 
+- CHA: 10
+
 ## Core Traits
 
 - **Primary Ability**: Wisdom

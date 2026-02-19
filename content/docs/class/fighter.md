@@ -1,3 +1,16 @@
+## Recommended Backgrounds
+
+[Artisan](/docs/backgrounds/#artisan), [Entertainer](/docs/backgrounds/#entertainer), [Farmer](/docs/backgrounds/#farmer), [Guard](/docs/backgrounds/#guard), [Noble](/docs/backgrounds/#noble), [Sailor](/docs/backgrounds/#sailor), [Soldier](/docs/backgrounds/#soldier)
+
+## Recommended Abilities
+
+- STR: 15
+- DEX: 14
+- CON: 13 
+- INT: 8
+- WIS: 10 
+- CHA: 12
+
 ## Core Traits
 
 - **Primary Ability**: Strength or Dexterity

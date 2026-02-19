@@ -1,3 +1,16 @@
+## Recommended Backgrounds
+
+[Acolyte](/docs/backgrounds/#acolyte), [Artisan](/docs/backgrounds/#artisan), [Criminal](/docs/backgrounds/#criminal), [Guard](/docs/backgrounds/#guard), [Merchant](/docs/backgrounds/#merchant), [Noble](/docs/backgrounds/#noble), [Sage](/docs/backgrounds/#sage), [Scribe](/docs/backgrounds/#scribe)
+
+## Recommended Abilities
+
+- STR: 8
+- DEX: 12
+- CON: 13 
+- INT: 15
+- WIS: 14 
+- CHA: 10
+
 ## Core Traits
 
 - **Primary Ability**: Intelligence

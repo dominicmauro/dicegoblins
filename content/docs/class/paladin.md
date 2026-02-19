@@ -1,3 +1,16 @@
+## Recommended Backgrounds
+
+[Acolyte](/docs/backgrounds/#acolyte), [Charlatan](/docs/backgrounds/#charlatan), [Entertainer](/docs/backgrounds/#entertainer), [Hermit](/docs/backgrounds/#hermit), [Merchant](/docs/backgrounds/#merchant), [Noble](/docs/backgrounds/#noble), [Wayfarer](/docs/backgrounds/#wayfarer)
+
+## Recommended Abilities
+
+- STR: 15
+- DEX: 10
+- CON: 13 
+- INT: 8
+- WIS: 12 
+- CHA: 14
+
 ## Core Traits
 
 - **Primary Ability**: Strength and Charisma

@@ -27,24 +27,7 @@ Fill in the proficiency bonus on your character sheet: everyone starts with a +2
 
 ## 3. Assign Ability Scores
 
-All level 1 characters use the same six scores for their abilities: 15, 14, 13, 12, 10, and 8. The following table puts the highest scores in the most important abilities for each Class.
-
-| Class     	| STR 	| DEX 	| CON 	| INT 	| WIS 	| CHA 	|
-|-----------	|------	|-----	|-----	|------	|------	|------	|
-| Barbarian 	| 15   	| 13  	| 14  	| 10   	| 12   	| 8    	|
-| Bard      	| 8    	| 14  	| 12  	| 13   	| 10   	| 15   	|
-| Cleric    	| 14   	| 8   	| 13  	| 10   	| 15   	| 12   	|
-| Druid     	| 8    	| 12  	| 14  	| 13   	| 15   	| 10   	|
-| Fighter   	| 15   	| 14  	| 13  	| 8    	| 10   	| 12   	|
-| Monk      	| 12   	| 15  	| 13  	| 10   	| 14   	| 8    	|
-| Paladin   	| 15   	| 10  	| 13  	| 8    	| 12   	| 14   	|
-| Ranger    	| 12   	| 15  	| 13  	| 8    	| 14   	| 10   	|
-| Rogue     	| 12   	| 15  	| 13  	| 14   	| 10   	| 8    	|
-| Sorcerer  	| 10   	| 13  	| 14  	| 8    	| 12   	| 15   	|
-| Warlock   	| 8    	| 14  	| 13  	| 12   	| 10   	| 15   	|
-| Wizard    	| 8    	| 12  	| 13  	| 15   	| 14   	| 10   	|
-
-After assigning your character's ability scores based on their Class, you will adjust some of the scores based on your character's Background. 
+All level 1 characters use the same six scores for their abilities: 15, 14, 13, 12, 10, and 8. The recommended distribution is on the page for each Class above. In the next step, you'll adjust some of those scores based on your character's Background. 
 
 ## 4. Choose a Background
 

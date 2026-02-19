@@ -1,3 +1,16 @@
+## Recommended Backgrounds
+
+[Artisan](/docs/backgrounds/#artisan), [Charlatan](/docs/backgrounds/#charlatan), [Criminal](/docs/backgrounds/#criminal), [Entertainer](/docs/backgrounds/#entertainer), [Guide](/docs/backgrounds/#guide), [Sailor](/docs/backgrounds/#sailor), [Scribe](/docs/backgrounds/#scribe), [Soldier](/docs/backgrounds/#soldier), [Wayfarer](/docs/backgrounds/#wayfarer)
+
+## Recommended Abilities
+
+- STR: 12
+- DEX: 15
+- CON: 13 
+- INT: 14
+- WIS: 10 
+- CHA: 8
+
 ## Core Traits
 
 - **Primary Ability**: Dexterity

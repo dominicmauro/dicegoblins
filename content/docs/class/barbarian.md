@@ -1,14 +1,12 @@
 ## Recommended Backgrounds
 
-Farmer or Soldier
+[Artisan](/docs/backgrounds/#artisan), [Entertainer](/docs/backgrounds/#entertainer), [Farmer](/docs/backgrounds/#farmer), [Guard](/docs/backgrounds/#guard), [Noble](/docs/backgrounds/#noble), [Sailor](/docs/backgrounds/#sailor), or [Soldier](/docs/backgrounds/#soldier)
 
 ## Recommended Abilities
 
-Increase STR by +1 and CON by +2, as shown:
-
-- STR: 15 + 1
+- STR: 15
 - DEX: 13
-- CON: 14 + 2
+- CON: 14
 - INT: 10
 - WIS: 12
 - CHA: 8
