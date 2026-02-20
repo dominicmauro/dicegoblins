@@ -1,4 +1,4 @@
-baseURL = 'https://dominicmauro.github.io/dicegoblins/'
+baseURL = 'https://workshop.dicegoblins.nyc/'
 languageCode = 'en-us'
 title = 'NYC Dice Goblins Index'
 theme = 'hugo-book'
