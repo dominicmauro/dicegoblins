@@ -35,11 +35,11 @@ You can use this feature twice, and you regain all expended uses of it when you 
 
 Drawing from your innate magic, you can cast spells. The information below details how you use those rules with Sorcerer spells.
 
-**Cantrips**. You know four Sorcerer cantrips: Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+**Cantrips**. You know four Sorcerer cantrips: [Light](/docs/spells/#light), [Prestidigitation](/docs/spells/#prestidigitation), [Shocking Grasp](/docs/spells/#shocking-grasp), and [Sorcerous Burst](/docs/spells/#sorcerous-burst). Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared Burning Hands and Detect Magic. The number of spells on your list increases as you gain Sorcerer levels.
+**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared [Burning Hands](/docs/spells/#burning-hands) and [Detect Magic](/docs/spells/#detect-magic). The number of spells on your list increases as you gain Sorcerer levels.
 
 **Spellcasting Ability**. Charisma is your spellcasting ability for your Sorcerer spells.
 

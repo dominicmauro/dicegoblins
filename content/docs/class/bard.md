@@ -36,11 +36,11 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 
 You have learned to cast spells through your bardic arts.
 
-**Cantrips**. You know the Dancing Lights and Vicious Mockery cantrips.
+**Cantrips**. You know the [Dancing Lights](/docs/spells/#dancing-lights) and [Vicious Mockery](/docs/spells/#vicious-mockery) cantrips.
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. Today, you prepared Charm Person, Color Spray, Dissonant Whispers, and Healing Word. The number of spells you can prepare each day will increase as you gain Bard levels.
+**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. Today, you prepared [Charm Person](/docs/spells/#charm-person), [Color Spray](/docs/spells/#color-spray), [Dissonant Whispers](/docs/spells/#dissonant-whispers), and [Healing Word](/docs/spells/#healing-word). The number of spells you can prepare each day will increase as you gain Bard levels.
 
 **Spellcasting Ability**. Charisma is your spellcasting ability for your Bard spells.
 

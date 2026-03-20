@@ -36,11 +36,11 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 You have learned to cast spells through prayer and meditation. The information below details how you use Cleric spells.
 
-**Cantrips**. You know three cantrips: Guidance, Sacred Flame, and Thaumaturgy.
+**Cantrips**. You know three cantrips: [Guidance](/docs/spells/#guidance), [Sacred Flame](/docs/spells/#sacred-flame), and [Thaumaturgy](/docs/spells/#thaumaturgy).
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. Today, you have prepared the spells Bless, Cure Wounds, Guiding Bolt, and Shield of Faith. The number of spells you can prepare each day will increase as you gain Cleric levels.
+**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. Today, you have prepared the spells [Bless](/docs/spells/#bless), [Cure Wounds](/docs/spells/#cure-wounds), [Guiding Bolt](/docs/spells/#guiding-bolt), and [Shield of Faith](/docs/spells/#shield-of-faith). The number of spells you can prepare each day will increase as you gain Cleric levels.
 
 **Changing Your Prepared Spells**. Whenever you finish a Long Rest, you can prepare different spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 

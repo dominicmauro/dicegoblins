@@ -26,7 +26,7 @@ Rangers gain all of the following features:
 
 ## Favored Enemy
 
-You always have the Hunter's Mark spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You always have the [Hunter's Mark](/docs/spells/#hunters-mark) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 ## Weapon Mastery
 
@@ -38,7 +38,7 @@ You have learned to channel the magical essence of nature to cast spells. The in
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared Cure Wounds and Ensnaring Strike. The number of spells on your list increases as you gain Ranger levels. Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
+**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared [Cure Wounds](/docs/spells/#cure-wounds) and [Ensnaring Strike](/docs/spells/#ensnaring-strike). The number of spells on your list increases as you gain Ranger levels. Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
 **Spellcasting Ability**. Wisdom is your spellcasting ability for your Ranger spells.
 

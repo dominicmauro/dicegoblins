@@ -43,11 +43,11 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 You have learned to cast spells through studying the mystical forces of nature. The information below details how you use Druid spells.
 
-**Cantrips**. You know two cantrips: Druidcraft and Produce Flame.
+**Cantrips**. You know two cantrips: [Druidcraft](/docs/spells/#druidcraft) and [Produce Flame](/docs/spells/#produce-flame).
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. You have the Animal Friendship, Cure Wounds, Faerie Fire, and Thunderwave spells prepared today. The number of spells you can prepare each day will increase as you gain Druid levels.
+**Prepared Spells**. Each day, you prepare four spells that are available for you to cast. You have the [Animal Friendship](/docs/spells/#animal-friendship), [Cure Wounds](/docs/spells/#cure-wounds), [Faerie Fire](/docs/spells/#faerie-fire), and [Thunderwave](/docs/spells/#thunderwave) spells prepared today. The number of spells you can prepare each day will increase as you gain Druid levels.
 
 **Spellcasting Ability**. Wisdom is your spellcasting ability for your Druid spells.
 

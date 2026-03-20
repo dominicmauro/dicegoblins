@@ -44,7 +44,7 @@ You have learned to cast spells through prayer and meditation. The information b
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare two spells that are available for you to cast. Today, you prepared Heroism and Searing Smite. The number of spells you prepare each day increases as you gain Paladin levels.
+**Prepared Spells**. Each day, you prepare two spells that are available for you to cast. Today, you prepared [Heroism](/docs/spells/#heroism) and [Searing Smite](/docs/spells/#searing-smite). The number of spells you prepare each day increases as you gain Paladin levels.
 
 **Changing Your Prepared Spells**. Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
 

@@ -35,15 +35,15 @@ Once per day, you can regain some of your magical energy by studying your spellb
 
 As a student of arcane magic, you have learned to cast spells. The information below details how you use those rules with Wizard spells.
 
-**Cantrips**. You know three Wizard cantrips: Light, Mage Hand, and Ray of Frost are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Cantrips**. You know three Wizard cantrips: [Light](/docs/spells/#light), [Mage Hand](/docs/spells/#mage-hand), and [Ray of Frost](/docs/spells/#ray-of-frost) are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 **Spellbook**. Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the spells you know. It starts with six level 1 Wizard spells: Detect Magic, Feather Fall, Mage Armor, Magic Missile, Sleep, and Thunderwave.
+The book contains the spells you know. It starts with six level 1 Wizard spells: [Detect Magic](/docs/spells/#detect-magic), [Feather Fall](/docs/spells/#feather-fall), [Mage Armor](/docs/spells/#mage-armor), [Magic Missile](/docs/spells/#magic-missile), [Sleep](/docs/spells/#sleep), and [Thunderwave](/docs/spells/#thunderwave).
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare four spells from your spellbook. Today, you prepared Magic Missile, Sleep, Detect Magic, and Thunderwave. The number of spells you can prepare each day increases as you gain Wizard levels.
+**Prepared Spells**. Each day, you prepare four spells from your spellbook. Today, you prepared [Magic Missile](/docs/spells/#magic-missile), [Sleep](/docs/spells/#sleep), [Detect Magic](/docs/spells/#detect-magic), and [Thunderwave](/docs/spells/#thunderwave). The number of spells you can prepare each day increases as you gain Wizard levels.
 
 **Spellcasting Ability**. Intelligence is your spellcasting ability for your Wizard spells.
 
