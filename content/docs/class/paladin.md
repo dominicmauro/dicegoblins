@@ -40,7 +40,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ## Spellcasting
 
-You have learned to cast spells through prayer and meditation. The information below details how you use Druid spells.
+You have learned to cast spells through prayer and meditation. The information below details how you use Paladin spells.
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
