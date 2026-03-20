@@ -39,7 +39,7 @@ Drawing from your innate magic, you can cast spells. The information below detai
 
 **Spell Slots**. You have two level 1 spell slots. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared Burning Hands and Detect Magic The number of spells on your list increases as you gain Sorcerer levels.
+**Prepared Spells**. Each day, you prepare two level 1 spells. Today, you prepared Burning Hands and Detect Magic. The number of spells on your list increases as you gain Sorcerer levels.
 
 **Spellcasting Ability**. Charisma is your spellcasting ability for your Sorcerer spells.
 

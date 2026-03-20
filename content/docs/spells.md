@@ -177,6 +177,28 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ---
 
+### Shocking Grasp
+
+*Range: Touch*
+
+*Duration: Instantaneous*
+
+Damage Cantrip: Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
+
+---
+
+### Sorcerous Burst
+
+*Range: 120 feet*
+
+*Duration: Instantaneous*
+
+Damage Cantrip: You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
+
+If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
+
+---
+
 ### Thaumaturgy
 
 *Range: 30 feet*
@@ -224,6 +246,18 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 *Duration: Concentration, up to 1 minute*
 
 You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
+
+---
+
+### Burning Hands
+
+*Range: Self*
+
+*Duration: Instantaneous*
+
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the Cone that aren't being worn or carried start burning.
 
 ---
 
