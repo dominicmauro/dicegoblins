@@ -194,6 +194,17 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 ---
 
+### Vicious Mockery
+
+*Range: 60 feet*
+
+*Duration: Instantaneous*
+
+Damage Cantrip: You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
+
+
+---
+
 ## Level 1
 
 ### Animal Friendship
@@ -226,6 +237,16 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 
 ---
 
+### Color Spray
+
+*Range: Self*
+
+*Duration: Instantaneous*
+
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
+
+---
+
 ### Cure Wounds
 
 *Range: Touch*
@@ -247,6 +268,16 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
+
+---
+
+### Dissonant Whispers
+
+*Range: 60 feet*
+
+*Duration: Instantaneous*
+
+One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 
 ---
 
