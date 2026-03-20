@@ -325,6 +325,16 @@ Use a Bonus Action: a creature of your choice that you can see within range rega
 
 ---
 
+### Heroism
+
+*Range: Touch*
+
+*Duration: Concentration up to 1 minute*
+
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
+
+---
+
 ### Mage Armor
 
 *Range: Touch*
@@ -342,6 +352,16 @@ You touch a willing creature who isn't wearing armor. Until the spell ends, the 
 *Duration: Instantaneous*
 
 You create **three** glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4+1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+---
+
+### Searing Smite
+
+*Range: Self*
+
+*Duration: 1 minute*
+
+As you hit the target, cast this spell as a Bonus Action. The target takes an extra 1d6 Fire damage from your attack. In addition, at the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
 
 ---
 
