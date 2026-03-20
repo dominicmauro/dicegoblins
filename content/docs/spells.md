@@ -42,6 +42,16 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ---
 
+### Eldritch Blast
+
+*Range: 120 feet*
+
+*Duration: Instantaneous*
+
+Damage Cantrip: You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
+
+---
+
 ### Fire Bolt
 
 *Range: 120 feet*
@@ -378,6 +388,16 @@ Use a Bonus Action: a creature of your choice that you can see within range rega
 *Duration: Concentration up to 1 minute*
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
+
+### Hex
+
+*Range: 90 feet*
+
+*Duration: Concentration up to 1 hour*
+
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability.
+
+If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 
 ---
 
