@@ -20,6 +20,7 @@ Your character's Class is like their job. Pick one that sounds interesting to yo
    | [Rogue](/docs/class/rogue)	| Stealth	| Dexterity	| Low	|
    | [Sorcerer](/docs/class/sorcerer)	| Power	| Charisma	| High	|
    | [Warlock](/docs/class/warlock)	| Occult lore	| Charisma	| High	|
+   | [Wizard](/docs/class/wizard)	| Spellbooks  | Intelligence	| Average	|
 
 ## 2. Proficiency Bonus
    
